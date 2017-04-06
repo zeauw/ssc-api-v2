@@ -17,7 +17,7 @@ class HttpClient
 	/**
 	 * Library constants
 	 */
-	const ENDPOINT = "http://sscnew.dev/api/v2/";
+	const ENDPOINT = "https://smsservicecenter.nl/api/v2/";
 	const VERSION = "1.0.0";
 	/**
 	 * @var \GuzzleHttp\Client $client
