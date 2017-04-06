@@ -1,0 +1,13 @@
+{
+	"name": "zeauw/ssc-api-v2",
+	"description": "SMS Service Center API v2 Client",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Zeauw\\SSCAPIv2\\": "src/"
+		}
+	},
+	"require": {
+		"guzzlehttp/guzzle": "^6.2"
+	}
+}
