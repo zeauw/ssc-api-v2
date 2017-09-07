@@ -8,7 +8,7 @@ Requirements
 
 - [Sign up](https://smsservicecenter.nl/register) for a free SMS Service Center account
 - Get your access_token in the API section
-- MessageBird API client for PHP requires PHP >= 5.5.0.
+- SMS Service Center API v2 client for PHP requires PHP >= 5.5.0.
 - Composer
 
 Installation
